@@ -72,4 +72,6 @@
 		关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
 
 		此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改
-	
+		
+三、仓库地址查看：
+	1、运行bash 输入命令"git remote -v" 
